@@ -7,7 +7,7 @@
 //
 // COPYRIGHT:     Emilio J. Gualda, 2012
 //                Egor Zindy, University of Manchester, 2013
-//				  Hugo M.M.	Pereira, Instituto Gulbenkian de Ciência, 2017
+//		  Hugo M.M. Pereira, Instituto Gulbenkian de CiÃªncia, 2017
 //
 // LICENSE:       This file is distributed under the BSD license.
 //
@@ -19,8 +19,8 @@
 //                CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
 //                INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES.
 //
-// AUTHOR:        Hugo M.M. Pereira, Instituto Gulbenkian de Ciência, 2017
-//				  Emilio J. Gualda, IGC, 2012
+// AUTHOR:        Hugo M.M. Pereira, Instituto Gulbenkian de CiÃªncia, 2017
+//		  Emilio J. Gualda, IGC, 2012
 //                Egor Zindy (egor.zindy@manchester.ac.uk)
 //                Contributions and testing (TDC001): Alfie O'Neill / Christopher Blount
 //
@@ -29,7 +29,6 @@
 #include "MMDevice.h"
 #include "DeviceBase.h"
 #include "Thorlabs.MotionControl.TCube.DCServo.h"
-#include "Thorlabs.MotionControl.Benchtop.StepperMotor.h"
 #include <string>
 #include <map>
 
