@@ -7,7 +7,7 @@
 //
 // COPYRIGHT:     Emilio J. Gualda, 2012
 //                Egor Zindy, University of Manchester, 2013
-//		  Hugo M.M.	Pereira, Instituto Gulbenkian de Ciencia, 2017
+//		  Hugo M.M. Pereira, Instituto Gulbenkian de Ciencia, 2017
 //
 // LICENSE:       This file is distributed under the BSD license.
 //
