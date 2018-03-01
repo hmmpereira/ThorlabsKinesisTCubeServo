@@ -29,7 +29,6 @@
 #include "MMDevice.h"
 #include "DeviceBase.h"
 #include "Thorlabs.MotionControl.TCube.DCServo.h"
-#include "Thorlabs.MotionControl.Benchtop.StepperMotor.h"
 #include <string>
 #include <map>
 

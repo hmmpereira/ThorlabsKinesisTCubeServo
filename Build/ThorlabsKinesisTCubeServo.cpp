@@ -37,7 +37,7 @@
 //                [ ] MST601 - 2 Ch modular stepper driver module
 //                [ ] TST001 - 1 Ch Stepper driver T-Cube
 //                [X] TDC001 - 1 Ch DC servo driver T-Cube
-//				  [ ] KDC001 - 1 Ch DC servo driver K-Cube
+//		  [ ] KDC001 - 1 Ch DC servo driver K-Cube
 //
 
 #ifdef WIN32
