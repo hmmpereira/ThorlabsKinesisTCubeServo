@@ -7,7 +7,7 @@
 //
 // COPYRIGHT:     Emilio J. Gualda, 2012
 //                Egor Zindy, University of Manchester, 2013
-//				  Hugo M.M.	Pereira, Instituto Gulbenkian de Ciencia, 2017
+//		  Hugo M.M.	Pereira, Instituto Gulbenkian de Ciencia, 2017
 //
 // LICENSE:       This file is distributed under the BSD license.
 //
@@ -20,7 +20,7 @@
 //                INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES.
 //
 // AUTHOR:        Hugo M.M. Pereira, Instituto Gulbenkian de Ciencia, 2017
-//				  Emilio J. Gualda, IGC, 2012
+//		  Emilio J. Gualda, IGC, 2012
 //                Egor Zindy (egor.zindy@manchester.ac.uk)
 //
 // NOTES:         Needs / Tested with APT.dll v 1.0.0.3
