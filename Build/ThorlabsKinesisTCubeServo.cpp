@@ -3,11 +3,11 @@
 // PROJECT:       Micro-Manager
 // SUBSYSTEM:     DeviceAdapters
 //-----------------------------------------------------------------------------
-// DESCRIPTION:   Control of Thorlabs stages using the APT library
+// DESCRIPTION:   Control of Thorlabs stages using the Kinesis library
 //
 // COPYRIGHT:     Emilio J. Gualda, 2012
 //                Egor Zindy, University of Manchester, 2013
-//				  Hugo M.M.	Pereira, Instituto Gulbenkian de Ciência, 2017
+//		  Hugo M.M. Pereira, Instituto Gulbenkian de CiÃªncia, 2017
 //
 // LICENSE:       This file is distributed under the BSD license.
 //
@@ -37,7 +37,7 @@
 //                [ ] MST601 - 2 Ch modular stepper driver module
 //                [ ] TST001 - 1 Ch Stepper driver T-Cube
 //                [X] TDC001 - 1 Ch DC servo driver T-Cube
-//				  [ ] KDC001 - 1 Ch DC servo driver K-Cube
+//		  [ ] KDC001 - 1 Ch DC servo driver K-Cube
 //
 
 #ifdef WIN32
